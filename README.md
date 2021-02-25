@@ -1,5 +1,7 @@
 ### ⚡️Olá! Seja bem vinde⚡️
 
+<img align='right' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
+
 Student of systems analysis and development.
 
 Main mission<br/>
@@ -11,8 +13,6 @@ Main mission<br/>
 ✔️6th Semester [Last]<br/>
 ✔️Graduation work<br/>
 🔴Programming Internship <br/>
-
-<img align='right' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
 
 <br/>
 <br/>
