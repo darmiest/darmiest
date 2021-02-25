@@ -37,7 +37,7 @@ Student of systems analysis and development.
   <img align="right" alt="Daiana Momberg StackOverFlow" width="21px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" />
 </a>
 
-<a href="https://www.guj.com.br/u/Darmiest/summary">
+<a href="https://www.guj.com.br/u/Darmiest/summary" target="_blank">
   <img align="right" alt="Daiana Momberg Guj" width="50px" src="https://www.guj.com.br/uploads/default/original/3X/7/a/7a098a50d944e138a214e1c25579601933d18b7d.png" />
 </a>
 
