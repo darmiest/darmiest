@@ -1,6 +1,6 @@
 ### Olá! Seja bem vinde 👋
 
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img src="https://data.whicdn.com/images/237176020/original.gif" width="100">
 
 ![alt text](https://github.com/darmiest/darmiest/blob/main/original.gif)
 
