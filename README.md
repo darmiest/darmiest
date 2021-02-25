@@ -1,5 +1,17 @@
 ### ⚡️Olá! Seja bem vinde⚡️
 
+Student of systems analysis and development.
+
+Main mission<br/>
+✔️1st Semester<br/>
+✔️2nd Semester<br/>
+✔️3rd Semester<br/>
+✔️4th Semester<br/>
+✔️5th Semester<br/>
+✔️6th Semester [Last]<br/>
+✔️Graduation work<br/>
+🔴Programming Internship <br/>
+
 <img align='right' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
 
 <a href="https://www.instagram.com/darmiest/">
