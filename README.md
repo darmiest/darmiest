@@ -1,6 +1,6 @@
 ### Hi there 👋
 Dia 2
-![alt text](https://github.com/darmiest/darmiest/blob/main/original.gif =250x250)
+![alt text](https://github.com/darmiest/darmiest/blob/main/original.gif | width=100)
 
 <!--
 **darmiest/darmiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
