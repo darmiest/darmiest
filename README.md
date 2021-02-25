@@ -14,6 +14,11 @@ Main mission<br/>
 
 <img align='right' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <a href="https://www.instagram.com/darmiest/">
   <img align="left" alt="Daiana Momberg Spotify" width="21px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
 </a>
@@ -39,6 +44,4 @@ Main mission<br/>
 </a>
 
 <br/>
-<p align="center">
-</p>
 <br/><br/>
