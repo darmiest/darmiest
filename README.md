@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.linkedin.com/in/daiana-momberg-de-andrade-251412154/">
+  <img align="left" alt="Daiana Momberg Linkedin" width="100px" src="https://github.com/darmiest/darmiest/blob/main/original.gif" />
+</a>
 
 <a href="https://www.linkedin.com/in/daiana-momberg-de-andrade-251412154/">
   <img align="left" alt="Daiana Momberg Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
