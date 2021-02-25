@@ -42,7 +42,7 @@ Student of systems analysis and development.
 </a>
 
 <a href="https://www.guj.com.br/u/Darmiest/summary">
-  <img align="center" alt="Daiana Momberg Guj" width="50px" src="https://www.guj.com.br/uploads/default/original/3X/7/a/7a098a50d944e138a214e1c25579601933d18b7d.png" />
+  <img align="right" alt="Daiana Momberg Guj" width="50px" src="https://www.guj.com.br/uploads/default/original/3X/7/a/7a098a50d944e138a214e1c25579601933d18b7d.png" />
 </a>
 
 <br/>
