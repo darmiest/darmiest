@@ -1,5 +1,4 @@
 ### Hi there 👋
-Dia 2
 ![alt text](https://github.com/darmiest/darmiest/blob/main/original.gif)
 
 <!--
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Daiana Momberg instagram" width="21px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
 </a>
 
-<a href="https://https://pt.stackoverflow.com/users/165204/daiana-de-andrade">
+<a href="https://pt.stackoverflow.com/users/165204/daiana-de-andrade">
   <img align="left" alt="Daiana Momberg StackOverFlow" width="21px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" />
 </a>
 
