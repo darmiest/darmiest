@@ -1,8 +1,6 @@
 ### Olá! Seja bem vinde 👋
 
-<img src="https://data.whicdn.com/images/237176020/original.gif" width="100">
-
-![alt text](https://github.com/darmiest/darmiest/blob/main/original.gif)
+<img src="https://data.whicdn.com/images/237176020/original.gif" width="250">
 
 <!--
 **darmiest/darmiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
