@@ -25,6 +25,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Daiana Momberg instagram" width="21px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
 </a>
 
+<a href="https://https://pt.stackoverflow.com/users/165204/daiana-de-andrade">
+  <img align="left" alt="Daiana Momberg StackOverFlow" width="21px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" />
+</a>
+
 <br/>
 <p align="center">
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
