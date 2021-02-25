@@ -3,6 +3,11 @@
 <img align='right' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
 
 Student of systems analysis and development.
+Atualmente estudo um pouco de back e front
+Gosto de inovar e poder colocar a criatividade em prática!
+Tive contato com linguagens como C#, C++, PHP mas fiquei usando mais nos ultimos semestres Python <img align='right' src="https://data.whicdn.com/images/237176020/original.gif" width="20">, Java e Javascript!
+O Java em especial foi o Foco para meu trabalho de graduação usando Android Studio, XML e Firebase.
+Já o Javascript, junto do CSS e Html vem sendo minhas principais fontes de estudo, que são a base para uso da Biblioteca React na qual tenho me aventurado nos ultimos tempos
 
 👾Main mission👾<br/>
 🏆1º Semestre: Status {Concluido}<br/>
@@ -14,6 +19,9 @@ Student of systems analysis and development.
 
 🏆Trabalho de Graduação: Status {Concluido}<br/>
 🔴Estágio: Status {Procurando} <br/>
+
+
+
 
 <br/>
 
@@ -40,8 +48,6 @@ Student of systems analysis and development.
 <a href="https://www.guj.com.br/u/Darmiest/summary">
   <img align="right" alt="Daiana Momberg Guj" width="50px" src="https://www.guj.com.br/uploads/default/original/3X/7/a/7a098a50d944e138a214e1c25579601933d18b7d.png" />
 </a>
-
-<a target="_blank" rel="noopener noreferrer" href="http://your_url_here.html">Link</a>
 
 <br/>
 <br/><br/>
