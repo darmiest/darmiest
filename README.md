@@ -19,11 +19,6 @@ Main mission<br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <a href="https://www.instagram.com/darmiest/">
   <img align="left" alt="Daiana Momberg Spotify" width="21px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
