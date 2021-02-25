@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/daiana-momberg-de-andrade-251412154/">
-  <img align="left" alt="Daiana Momberg Linkedin" width="100px" src="https://github.com/darmiest/darmiest/blob/main/original.gif" />
+  <img align="top" alt="Daiana Momberg Linkedin" width="250px" src="https://github.com/darmiest/darmiest/blob/main/original.gif" />
 </a>
 
 <a href="https://www.linkedin.com/in/daiana-momberg-de-andrade-251412154/">
