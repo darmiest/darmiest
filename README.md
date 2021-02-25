@@ -1,4 +1,4 @@
-### Olá! Seja bem vinde 👋
+### 👾Olá! Seja bem vinde👾
 
 <img align='right' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
 
