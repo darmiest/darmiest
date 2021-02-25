@@ -28,6 +28,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Daiana Momberg StackOverFlow" width="21px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" />
 </a>
 
+<a href="https://www.guj.com.br/u/Darmiest/summary">
+  <img align="left" alt="Daiana Momberg Guj" width="21px" src="https://www.guj.com.br/uploads/default/original/3X/7/a/7a098a50d944e138a214e1c25579601933d18b7d.png" />
+</a>
+
 <br/>
 <p align="center">
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
