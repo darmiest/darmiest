@@ -5,14 +5,14 @@
 Student of systems analysis and development.
 
 Main mission<br/>
-✔️1st Semester<br/>
-✔️2nd Semester<br/>
-✔️3rd Semester<br/>
-✔️4th Semester<br/>
-✔️5th Semester<br/>
-✔️6th Semester [Last]<br/>
-✔️Graduation work<br/>
-🔴Programming Internship <br/>
+🏆1º Semestre: Status {Concluido}<br/>
+🏆2nd Semester<br/>
+🏆3rd Semester<br/>
+🏆4th Semester<br/>
+🏆5th Semester<br/>
+🏆6th Semester [Last]<br/>
+🏆Graduation work<br/>
+🔴Programming Internship[pending] <br/>
 
 <br/>
 <br/>
