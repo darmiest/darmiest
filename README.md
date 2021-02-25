@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](width="250px" https://github.com/darmiest/darmiest/blob/main/original.gif)
+![alt text](https://github.com/darmiest/darmiest/blob/main/original.gif)
 
 <!--
 **darmiest/darmiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
