@@ -1,9 +1,5 @@
 ### Hi there 👋
-![alt text](https://github.com/darmiest/darmiest/blob/main/original.gif)
-
-<a href="https://www.linkedin.com/in/daiana-momberg-de-andrade-251412154/">
-  <img align="top" alt="Daiana Momberg Linkedin" width="250px" src="https://github.com/darmiest/darmiest/blob/main/original.gif" />
-</a>
+![alt text](width="250px" https://github.com/darmiest/darmiest/blob/main/original.gif)
 
 <!--
 **darmiest/darmiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
