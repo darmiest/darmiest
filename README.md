@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.guj.com.br/u/Darmiest/summary">
-  <img align="left" alt="Daiana Momberg Guj" width="21px" src="https://www.guj.com.br/uploads/default/original/3X/7/a/7a098a50d944e138a214e1c25579601933d18b7d.png" />
+  <img align="left" alt="Daiana Momberg Guj" width="50px" src="https://www.guj.com.br/uploads/default/original/3X/7/a/7a098a50d944e138a214e1c25579601933d18b7d.png" />
 </a>
 
 <br/>
