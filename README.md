@@ -2,13 +2,13 @@
 
 <img align='right' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
 
-🍃Student of systems analysis and development.</br>
-🍃Atualmente estudo um pouco de Back-end e Front-end</br>
-🍃Gosto de inovar e poder colocar a criatividade em prática!</br>
-🍃Tive contato com linguagens como:</br>
-🍃C#, C++, PHP mas fiquei usando mais nos ultimos semestres Python, Java e Javascript!</br>
+🍀Student of systems analysis and development.</br>
+🌼Atualmente estudo um pouco de Back-end e Front-end</br>
+🌈Gosto de inovar e poder colocar a criatividade em prática!</br>
+💥Tive contato com linguagens como:</br>
+🌎C#, C++, PHP mas fiquei usando mais nos ultimos semestres Python, Java e Javascript!</br>
 🍃O Java em especial foi o Foco para meu trabalho de graduação usando Android Studio, XML e Firebase.</br>
-🍃Já o Javascript, junto do CSS e Html vem sendo minhas principais fontes de estudo, que são a base para uso da Biblioteca React na qual tenho me aventurado nos ultimos tempos!
+🍂Já o Javascript, junto do CSS e Html vem sendo minhas principais fontes de estudo, que são a base para uso da Biblioteca React na qual tenho me aventurado nos ultimos tempos!
 
 👾Main mission👾<br/>
 🏆1º Semestre: Status {Concluido}<br/>
