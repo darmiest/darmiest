@@ -4,7 +4,7 @@
 
 Student of systems analysis and development.
 
-Main mission<br/>
+👾Main mission👾<br/>
 🏆1º Semestre: Status {Concluido}<br/>
 🏆2º Semestre: Status {Concluido}<br/>
 🏆3º Semestre: Status {Concluido}<br/>
