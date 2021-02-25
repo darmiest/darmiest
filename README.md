@@ -18,7 +18,7 @@ Student of systems analysis and development.
 <br/>
 
 <a href="https://www.instagram.com/darmiest/">
-  <img align="right" alt="Daiana Momberg Spotify" width="21px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
+  <img align="right" alt="Daiana Momberg Spotify" width="21px" src="https://image.flaticon.com/icons/png/512/174/174855.png" target="_blank"/>
 </a>
 
 <a href="https://open.spotify.com/user/darmiestkoystech">
