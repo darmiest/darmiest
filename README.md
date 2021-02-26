@@ -50,5 +50,9 @@
   <img align="right" alt="Daiana Momberg Guj" width="50px" src="https://www.guj.com.br/uploads/default/original/3X/7/a/7a098a50d944e138a214e1c25579601933d18b7d.png" />
 </a>
 
+<a href="https://www.urionlinejudge.com.br/judge/pt/profile/324014">
+  <img align="right" alt="Daiana Momberg UriOnliJudge" width="50px" src="https://pbs.twimg.com/profile_images/939927951235272704/RmB_YdGN.jpg" />
+</a>
+
 <br/>
 <br/><br/>
