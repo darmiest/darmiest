@@ -51,7 +51,7 @@
 </a>
 
 <a href="https://www.urionlinejudge.com.br/judge/pt/profile/324014">
-  <img align="right" alt="Daiana Momberg UriOnliJudge" width="21px" src="https://pbs.twimg.com/profile_images/939927951235272704/RmB_YdGN.jpg" />
+  <img align="right" alt="Daiana Momberg UriOnliJudge" width="21px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGUo2sWYXd8RQ/company-logo_200_200/0/1519867078703?e=2159024400&v=beta&t=w6OlNtUR_FA6w5D4VtX9ftXfgHaxW6y2PppbH_MHZI8" />
 </a>
 
 <br/>
