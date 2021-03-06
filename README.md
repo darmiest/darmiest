@@ -11,14 +11,14 @@
 🍂Já o Javascript, junto do CSS e HTML vem sendo minhas principais fontes de estudo ultimamente.
 
 👾Main mission👾<br/>
-🏆1º Semestre: Status {Concluido}<br/>
+<!--🏆1º Semestre: Status {Concluido}<br/>
 🏆2º Semestre: Status {Concluido}<br/>
 🏆3º Semestre: Status {Concluido}<br/>
 🏆4º Semestre: Status {Concluido}<br/>
 🏆5º Semestre: Status {Concluido}<br/>
 🏆6º Semestre: Status {Concluido}<br/>
-
 🏆Trabalho de Graduação: Status {Concluido}<br/>
+-->
 🔴Estágio: Status {Procurando} <br/>
 
 
