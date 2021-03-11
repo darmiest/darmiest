@@ -18,8 +18,9 @@
 🏆5º Semestre: Status {Concluido}<br/>
 🏆6º Semestre: Status {Concluido}<br/>
 🏆Trabalho de Graduação: Status {Concluido}<br/>
--->
 🔴Estágio: Status {Procurando} <br/>
+-->
+
 
 
 
