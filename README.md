@@ -3,7 +3,7 @@
 <img align='right' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
 
 🍀Student of systems analysis and development.</br>
-🌸Atualmente estudo um pouco de Back-end e Front-end</br>
+🌸Atualmente estudo Front-end</br>
 🌈Gosto de inovar e poder colocar a criatividade em prática!</br>
 💥Tive contato com linguagens como:</br>
 🌎C#, C++, PHP mas fiquei usando mais nos ultimos semestres Python, Java e Javascript!</br>
