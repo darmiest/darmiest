@@ -8,7 +8,7 @@
 💥Tive contato com linguagens como:</br>
 🌎C#, C++, PHP mas fiquei usando mais nos ultimos semestres Python, Java e Javascript!</br>
 🍃O Java em especial foi o Foco para meu trabalho de graduação usando Android Studio.</br>
-🍂Já o Javascript, junto do CSS e HTML vem sendo minhas principais fontes de estudo ultimamente.
+🍂Focada atualmente em Java, Spring Boot e Angular.
 
 
 <!--
