@@ -2,25 +2,9 @@
 
 <img align='right' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
 
-🌸Desenvolvedora back-end.</br>
+🌸Desenvolvedora back-end Java.</br>
 🌈Gosto de inovar e poder colocar a criatividade em prática!</br>
-💥Tive contato com linguagens como:</br>
-🌎C#, C++, PHP mas fiquei usando mais nos ultimos semestres Python, Java e Javascript!</br>
-🍃O Java em especial foi o Foco para meu trabalho de graduação usando Android Studio.</br>
-🍂Estudando Java, Spring Boot e Angular.
 
-
-<!--
-👾Main mission👾<br/>
-🏆1º Semestre: Status {Concluido}<br/>
-🏆2º Semestre: Status {Concluido}<br/>
-🏆3º Semestre: Status {Concluido}<br/>
-🏆4º Semestre: Status {Concluido}<br/>
-🏆5º Semestre: Status {Concluido}<br/>
-🏆6º Semestre: Status {Concluido}<br/>
-🏆Trabalho de Graduação: Status {Concluido}<br/>
-🔴Estágio: Status {Procurando} <br/>
--->
 
 <br/>
 
