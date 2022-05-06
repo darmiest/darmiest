@@ -1,8 +1,12 @@
-### ⚡️Hi, welcome to my dev portfolio!⚡️
+### ⚡️Olá! Seja bem vindo ao meu portfólio!⚡️
 
 <img align='center' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
-<br/>
-🌸I like to innovate and be able to put creativity into practice!🌸</br>
+<br/>🌸 Estudo Back-end e gosto de inovar além de poder colocar a minha criatividade em prática! 🌸<br/><br/>
+Tive contato com linguagens como:
+<br/> 🌎 | C#, C++, PHP, Python, Java e Javascript!
+<br/> ☕ | O Java em especial foi o Foco para meu trabalho de graduação usando Android Studio. 
+<br/> 🧐 | Sempre estou disposta a aprender novas tecnologias que atendam a necessidade da empresa.
+<br/> 🍂 | Focada atualmente em Java e Spring Boot.</br>
 <br/>
 
 <a href="https://pt.stackoverflow.com/users/165204/daiana-de-andrade">
