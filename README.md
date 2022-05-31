@@ -1,16 +1,10 @@
-### ⚡️Olá! Seja bem vindo ao meu portfólio!⚡️
+### ⚡️Hi, welcome to my dev portfolio!⚡️
 
 <img align='center' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
-<br/>🌸 Estudo Back-end e gosto de inovar além de poder colocar a minha criatividade em prática! 🌸<br/><br/>
-Tive contato com linguagens como:
-<br/> 🌎 | C#, C++, PHP, Python, Java e Javascript!
-<br/> ☕ | O Java em especial foi o Foco para meu trabalho de graduação usando Android Studio. 
-<br/> 🧐 | Sempre estou disposta a aprender novas tecnologias que atendam a necessidade da empresa.
-<br/> 🍂 | Focada atualmente em Java e Spring Boot.</br>
-<br/>
+
 
 <a href="https://www.hackerrank.com/Darmiest">
-  <img align="" alt="Daiana Momberg StackOverFlow" width="25px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
+  <img align="" width="25px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
 </a>
 
  <div>
